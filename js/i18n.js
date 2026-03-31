@@ -24,6 +24,13 @@ const translations = {
 
     btn_github: 'GitHub',
 
+    btn_verify: 'Verificar',
+
+    nav_certs:  'Certificados',
+    certs_title: 'certificados --list',
+    cert1_name: 'Santander 2025 - Back-End com Python',
+    cert1_date: '31 de Agosto de 2025',
+
     contact_title: 'contato --open',
 
     footer_text: 'Feito com HTML, CSS & JS · Guilherme Rubatto © 2026',
@@ -52,6 +59,13 @@ const translations = {
     proj4_desc: 'Bulk WhatsApp automation with anti-ban controls and fully local operation.',
 
     btn_github: 'GitHub',
+
+    btn_verify: 'Verify',
+
+    nav_certs:  'Certificates',
+    certs_title: 'certificates --list',
+    cert1_name: 'Santander 2025 - Back-End with Python',
+    cert1_date: 'August 31, 2025',
 
     contact_title: 'contact --open',
 
