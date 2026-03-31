@@ -19,6 +19,8 @@ const translations = {
     proj2_desc: 'Automação de notificações via webhook com integrações de mensageria.',
     proj3_name: 'Dashboard de Métricas',
     proj3_desc: 'Pipeline de dados com visualização em tempo real.',
+    proj4_name: 'Disparo WhatsApp',
+    proj4_desc: 'Automação de disparo em massa no WhatsApp com controles anti-ban e operação local.',
 
     btn_github: 'GitHub',
 
@@ -46,6 +48,8 @@ const translations = {
     proj2_desc: 'Notification automation via webhooks with messaging platform integrations.',
     proj3_name: 'Metrics Dashboard',
     proj3_desc: 'Data pipeline with real-time visualization.',
+    proj4_name: 'WhatsApp Blast System',
+    proj4_desc: 'Bulk WhatsApp automation with anti-ban controls and fully local operation.',
 
     btn_github: 'GitHub',
 
