@@ -312,6 +312,12 @@ h1, h2, h3 { font-family: var(--font-mono); font-weight: 700; }
 /* Hero text */
 .hero-text { flex: 1; min-width: 220px; }
 .prompt { font-size: 1rem; margin-bottom: 0.5rem; }
+.hero .prompt {
+  font-size: clamp(1.5rem, 4vw, 2.4rem);
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 0.75rem;
+}
 .hero-role {
   font-family: var(--font-mono);
   font-size: 0.85rem;
